@@ -1,0 +1,13 @@
+C:\Users\เช็คกี้\source\repos\last_city\last_city\obj\Debug\netcoreapp3.1\last_city.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\เช็คกี้\source\repos\last_city\last_city\obj\Debug\netcoreapp3.1\last_city.AssemblyInfoInputs.cache
+C:\Users\เช็คกี้\source\repos\last_city\last_city\obj\Debug\netcoreapp3.1\last_city.AssemblyInfo.cs
+C:\Users\เช็คกี้\source\repos\last_city\last_city\obj\Debug\netcoreapp3.1\last_city.csproj.CoreCompileInputs.cache
+C:\Users\เช็คกี้\source\repos\last_city\last_city\bin\Debug\netcoreapp3.1\last_city.exe
+C:\Users\เช็คกี้\source\repos\last_city\last_city\bin\Debug\netcoreapp3.1\last_city.deps.json
+C:\Users\เช็คกี้\source\repos\last_city\last_city\bin\Debug\netcoreapp3.1\last_city.runtimeconfig.json
+C:\Users\เช็คกี้\source\repos\last_city\last_city\bin\Debug\netcoreapp3.1\last_city.runtimeconfig.dev.json
+C:\Users\เช็คกี้\source\repos\last_city\last_city\bin\Debug\netcoreapp3.1\last_city.dll
+C:\Users\เช็คกี้\source\repos\last_city\last_city\bin\Debug\netcoreapp3.1\last_city.pdb
+C:\Users\เช็คกี้\source\repos\last_city\last_city\obj\Debug\netcoreapp3.1\last_city.dll
+C:\Users\เช็คกี้\source\repos\last_city\last_city\obj\Debug\netcoreapp3.1\last_city.pdb
+C:\Users\เช็คกี้\source\repos\last_city\last_city\obj\Debug\netcoreapp3.1\last_city.genruntimeconfig.cache

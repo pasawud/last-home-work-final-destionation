@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o1bNxFE5Dq5ZtQdybU0l73urUksY0bGr2w0ASdw15nkaHmZz7o0nc2fzY3qL9wGdePUTGDi/vPyPY77oCr8Z9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\เช็คกี้\\source\\repos\\last_city\\last_city\\last_city.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\เช็คกี้\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
